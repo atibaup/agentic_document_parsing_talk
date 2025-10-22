@@ -25,20 +25,8 @@ class SimpleAgentParser(Parser[T]):
                 with the error message if the validation was not successful.
         """
         super().__init__(output_type)
-
-        def is_valid_schema(document: str, parsed: T) -> Tuple[bool, str]:
-            """Validate the schema of the parsed data."""
-            try:
-                output_type.model_validate(parsed)
-            except PydanticValidationError as e:
-                serialized_errors = ",".join(
-                    [f"{err['loc']}: {err['msg']}" for err in e.errors()]
-                )
-                error_msg = f"The returned tool call doesn't meet the semantic validation requirements, errors: {serialized_errors}"
-                return False, error_msg
-            return True, "Validation successful"
             
-        self.validation_functions = [is_valid_schema] + validation_functions
+        self.validation_functions = validation_functions
         self.output_type = output_type
         self.model = model
         self.max_attempts = max_attempts

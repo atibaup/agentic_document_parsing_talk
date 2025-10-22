@@ -2,67 +2,63 @@ from argparse import ArgumentParser
 from dotenv import load_dotenv
 import asyncio
 import json
-from pydantic import BaseModel, Field, field_validator
-from pydantic_ai.providers.google import GoogleProvider
-from pydantic_ai.models.google import GoogleModel
-
+from typing import Tuple, Generic, TypeVar, Annotated
+from pydantic import BaseModel, Field, ConfigDict
+from datetime import date
 from parser import SimpleAgentParser, OneShotParser
 
 import os
 
 load_dotenv()
 
+T = TypeVar("T")
+
+class CitedFact(BaseModel, Generic[T]):
+    passage: str = Field(description="The passage of the document where the fact is obtained, verbatim exactly as it is in the document, including punctuation and whitespace.")
+    fact: T = Field(description="The cited fact")
+
+class DocumentModel(BaseModel):
+    title: Annotated[CitedFact[str], Field(description="The title of the document")]
+    author: Annotated[CitedFact[str], Field(description="The author of the document")]
+    date: Annotated[CitedFact[date], Field(description="The date of the document in %Y-%m-%d format")]
+
+
+def validate_citations(document: str, data: DocumentModel) -> Tuple[bool, str]:
+    """Validate the citations in the document."""
+    clean_document = document.replace("\n", " ").replace("\r", " ").replace("\t", " ").replace("  ", " ")
+    if data.title.passage not in clean_document:
+        return False, f"`Title` passage not found in document, passage={data.title.passage}"
+    if data.author.passage not in clean_document:
+        return False, f"`Author` passage not found in document, passage={data.author.passage}"
+    if data.date.passage not in clean_document:
+        return False, f"`Date` passage not found in document, passage={data.date.passage}"
+    return True, "Citations validated successfully"
+    
+
 async def main():
     args = ArgumentParser()
     args.add_argument("--file", type=str, required=True)
     args = args.parse_args()
 
-    model_name = "gemini-2.5-flash"
-
-    provider = GoogleProvider(api_key=os.getenv("GEMINI_API_KEY"))
-    model = GoogleModel(model_name, provider=provider)
+    model_name = "gemini/gemini-2.5-flash"
 
     with open(args.file, "r") as file:
         document = file.read()
 
-    class DocumentModel(BaseModel):
-        title: str = Field(description="The title of the document")
-        summary: str = Field(description="The summary of the document")
-        author: str = Field(description="The author of the document")
-        date: str = Field(description="The date of the document")
+    print("One Shot Parser (DocumentModel):\n===========================================")
+    parser = OneShotParser(DocumentModel, model_name)
+    try:
+        result = await parser.parse(document)
 
-    class CitatedText(BaseModel):
-        start: int = Field(description="The start line of the citated text in the document")
-        end: int = Field(description="The end line of the citated text in the document")
-        text: str = Field(description="The citated text")
-
-    class DocumentModelWithCitation(BaseModel):
-        title: CitatedText = Field(description="The title of the document")
-        summary: CitatedText = Field(description="The summary of the document")
-        author: CitatedText = Field(description="The author of the document")
-        date: CitatedText = Field(description="The date of the document")
-
-    class DocumentModelWithCitationsVerified(DocumentModelWithCitation):
-        @field_validator("title", "summary", "author", "date")
-        def verify_citations(cls, v):
-            return v
-
-    parser = SimpleAgentParser(DocumentModel, model)
-    result = await parser.parse(document)
+        print(result.model_dump_json(indent=4))
+    except Exception as e:
+        print(f"Error parsing document: {e}")
 
     print("Simple Agent Parser (DocumentModel):\n===========================================")
-    print(result.model_dump_json(indent=4))
 
-    parser = OneShotParser(DocumentModel, f"gemini/{model_name}")
+    parser = SimpleAgentParser(DocumentModel, model_name, [validate_citations])
     result = await parser.parse(document)
 
-    print("One Shot Parser (DocumentModel):\n===========================================")
-    print(result.model_dump_json(indent=4))
-
-    parser = SimpleAgentParser(DocumentModelWithCitation, model)
-    result = await parser.parse(document)
-
-    print("Simple Agent Parser (DocumentModelWithCitation):\n===========================================")
     print(result.model_dump_json(indent=4))
 
 if __name__ == "__main__":

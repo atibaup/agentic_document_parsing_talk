@@ -1,4 +1,4 @@
-pydantic-ai
+pydantic
 google-genai
 python-dotenv
 litellm

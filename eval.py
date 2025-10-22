@@ -4,47 +4,37 @@ import asyncio
 import json
 import os
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple, Callable
 from datetime import datetime
+import pandas as pd
 
-from pydantic import BaseModel, Field
-from pydantic_ai.providers.google import GoogleProvider
-from pydantic_ai.models.google import GoogleModel
 
 from parser import SimpleAgentParser, OneShotParser
-import pandas as pd
+from main import DocumentModel, validate_citations
 
 
 load_dotenv()
 
 
-class Asset(BaseModel):
-    """Model for parsing assets of the project"""
-    name: str = Field(description="Name of the asset")
-    type: str = Field(description="Type of the asset (e.g., wid, solar_pv, substation, power line, bess, etc.)")
-    capacity: float = Field(description="Capacity of the asset")
-    capacity_units: str = Field(description="Units of the capacity (e.g., MW, MWp, MWh, KV, etc.)")
-
-class EnvironmentalPermit(BaseModel):
-    """Model for parsing Spanish FederalEnvironmental Permits"""
-    title: str = Field(description="Title of the document")
-    date: str = Field(description="Publication date of the document")
-    project_name: str = Field(description="Name of the project (e.g., wind park name)")
-    municipality: str = Field(description="Municipality where the project is located")
-    province: str = Field(description="Province where the project is located")
-    is_approved: bool = Field(description="Whether the permit is approved")
-    developers: list[str] = Field(description="Companies or entities developing the project")
-    assets: list[Asset] = Field(description="Assets listed in the publication")
-
+def validate_citations(document: str, data: DocumentModel) -> Tuple[bool, str]:
+    """Validate the citations in the document."""
+    clean_document = document.replace("\n", " ").replace("\r", " ").replace("\t", " ").replace("  ", " ")
+    if data.title.passage not in clean_document:
+        return False, f"`Title` passage not found in document, passage={data.title.passage}"
+    if data.author.passage not in clean_document:
+        return False, f"`Author` passage not found in document, passage={data.author.passage}"
+    if data.date.passage not in clean_document:
+        return False, f"`Date` passage not found in document, passage={data.date.passage}"
+    return True, "Citations validated successfully"
 
 
 class ParserConfig:
     """Configuration for a parser variant"""
-    def __init__(self, name: str, parser_class, model_name: str = None, model_obj=None):
+    def __init__(self, name: str, parser_class, model_name: str = None, validation_functions: List[Callable] = None):
         self.name = name
         self.parser_class = parser_class
         self.model_name = model_name
-        self.model_obj = model_obj
+        self.validation_functions = validation_functions or []
 
 
 async def load_raw_documents(raw_dir: Path) -> List[tuple[str, str]]:
@@ -78,7 +68,7 @@ async def parse_document(parser, document: str, parser_name: str) -> Dict[str, A
         result = await parser.parse(document)
         return {
             "success": True,
-            "data": result.model_dump(),
+            "data": result.model_dump(mode='json'),
             "parser": parser_name,
             "error": None
         }
@@ -257,19 +247,20 @@ async def main():
     if not api_key:
         raise ValueError("GEMINI_API_KEY environment variable not set")
 
-    provider = GoogleProvider(api_key=api_key)
+    model_name="gemini/gemini-2.5-flash"
 
     # Define parser configurations to test
     parser_configs = [
         ParserConfig(
-            name="SimpleAgentParser_gemini-2.5-flash",
+            name=f"SimpleAgentParser_{model_name}",
             parser_class=SimpleAgentParser,
-            model_obj=GoogleModel("gemini-2.5-flash", provider=provider)
+            model_name=model_name,
+            validation_functions=[validate_citations]
         ),
         ParserConfig(
-            name="OneShotParser_gemini-2.5-flash",
+            name=f"OneShotParser_{model_name}",
             parser_class=OneShotParser,
-            model_name="gemini/gemini-2.5-flash"
+            model_name=model_name
         ),
     ]
 
@@ -297,11 +288,11 @@ async def main():
         for config in parser_configs:
             print(f"  Testing parser: {config.name}")
 
-            # Create parser instance
-            if config.model_obj:
-                parser = config.parser_class(EnvironmentalPermit, config.model_obj)
+            # Create parser with validation functions if applicable
+            if config.validation_functions:
+                parser = config.parser_class(DocumentModel, config.model_name, config.validation_functions)
             else:
-                parser = config.parser_class(EnvironmentalPermit, config.model_name)
+                parser = config.parser_class(DocumentModel, config.model_name)
 
             # Parse document
             result = await parse_document(parser, content, config.name)

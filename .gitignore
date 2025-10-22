@@ -1,0 +1,6 @@
+.venv
+CLAUDE.md
+.env
+results
+.DS_Store
+__pycache__

@@ -1,0 +1,862 @@
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+666
+DEPARTAMENTO DE MEDIO AMBIENTE Y TURISMO
+RESOLUCIÓN de 2 de noviembre de 2023, del Instituto Aragonés de Gestión Ambiental, 
+por la que se adopta la decisión de no someter al procedimiento de evaluación de im -
+pacto ambiental ordinaria y se emite el informe de impacto ambiental del proyecto de 
+parque eólico “Zuera I, en polígono 16 parcela 3, en el término municipal de Zuera (Za-
+ragoza), promovido por Tratamiento y Generación de Energía, SL. (Número de Expe -
+diente: INAGA 500806/01M/2022/10143).
+1. Antecedentes.
+En el “Boletín Oficial de Aragón”, número 151, de 24 de diciembre de 2007, se publicó la 
+Resolución de 5 de diciembre de 2007, del Instituto Aragonés de Gestión Ambiental, por la 
+que se resolvió no someter al procedimiento de evaluación de impacto ambiental el proyecto 
+de instalación solar fotovoltaica, en el término municipal de Zuera (Zaragoza), promovido por 
+Tratamiento y Generación de Energía, SL Expte INAGA 500201/01/2007/08582.
+2. Tipo de procedimiento.
+Evaluación de impacto ambiental simplificada para determinar si el proyecto de parque 
+eólico “Zuera I” debe someterse a evaluación de impacto ambiental ordinaria (Ley 11/2014, de 
+4 de diciembre, de Prevención y Protección Ambiental de Aragón, artículo 23.2).
+Según el documento ambiental aportado, el proyecto queda incluido en el anexo II, Grupo 
+4, epígrafe 4.7. de la citada Ley 11/2014, de 4 de diciembre, “Instalaciones para la utilización 
+de la fuerza del viento para la producción de energía. (Parques eólicos) no incluidos en el 
+anexo I, salvo las destinadas a autoconsumo que no excedan los 100 kW de potencia total”.
+El parque eólico “Zuera I” se hibridará con la PFV “Zuera Solar I” ya existente en el área 
+de implementación del nuevo parque eólico.
+3. Ubicación y descripción básica del proyecto (Documento Ambiental).
+El parque eólico “Zuera I” se ubicará en el término municipal de Zuera, provincia de Zara-
+goza, a unos 6,3 km al noroeste del polígono industrial El Campillo, situado junto a Zuera, y a 
+5,2 km al suroeste del núcleo de La Paul (T.M. Gurrea de Gállego). El aerogenerador se ubi-
+cará en el punto de coordenadas UTM ETRS89 30T 679.516/4.646.144.
+La infraestructura eólica del parque eólico “Zuera I” consta de 1 aerogenerador modelo 
+Vestas 172, o similar, con 6.600 kW de potencia unitaria, 172 m de diámetro de rotor y 117 m 
+de altura de buje. El aerogenerador está dotado de un sistema de componentes eléctricos 
+internos con las protecciones necesarias para su operación en conexión con la red. Se conec-
+tará al centro de control ubicado en la subestación “Zuera II” 45/15 kV mediante líneas de 
+comunicación. El PE “Zuera I” (6,6 MW), hibridará con la PFV “Zuera Solar I” existente.
+La infraestructura eléctrica del PE “Zuera I” está constituida por un Centro de Transforma-
+ción BT/MT que se dispondrá en el interior del aerogenerador y en él se eleva la tensión de 
+generación (0,69 kV) a la correspondiente de distribución en M.T. (15 kV) del parque. Para 
+interconexión del aerogenerador con la Subestación “Zuera II” se dispondrán las líneas sub-
+terráneas de media tensión (15 kV) que discurrirán en zanjas construidas, en su mayor parte, 
+en los laterales de los viales del parque. La longitud total aproximada de zanjas a construir es 
+de 3,393 km. La red de comunicaciones estará constituida por conductor de fibra óptica que 
+interconectará el aerogenerador con el centro de control situado en la SET “Zuera II”.
+La evacuación final se realizará mediante una línea subterránea de 45 kV con origen en la 
+Subestación “Zuera II” 45/15 kV y fin en la Subestación “Zuera Campillo”. Ambas subesta-
+ciones, así como las actuaciones previstas en el punto de conexión serán objeto de otros 
+proyectos independientes.
+La obra civil del PE “Zuera I” está formada por los viales interiores que partirán de caminos 
+y/o carreteras existentes, aprovechando al máximo dicha red y servirán para acceso al aero-
+generador. La longitud total aproximada de los viales es de 3,842 km. Se ejecutarán sin as-
+falto con el fin de minimizar el impacto ambiental provocado por los mismos y se revegetarán 
+los taludes, tanto en desmonte como en terraplén, mediante técnicas de hidrosiembra. La 
+plataforma de montaje permitirá el acopio de virolas, fustes, góndolas y palas, que se situarán 
+en la base del aerogenerador, y que además permitirán realizar el montaje de éste o la ma-
+niobra de los vehículos. La cimentación del aerogenerador se ubicará sobre plataforma cir-
+cular para el anclaje de las torres.
+Los movimientos de tierras prevén unos volúmenes de desmonte de 1996 m³ para las ci -
+mentaciones, 12.528 m³ para la plataforma, 14.205 m³ para los viales, y 1.500 m³ para las 
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+667
+zanjas. Los terraplenes ascienden respectivamente a 1.197, 1.642, 12.447, y 1.102 m³. Se 
+prevé un transporte a vertedero de 13.811 m³ y una importación de 5.158 m³ de materiales.
+4. Estudio de alternativas y breve descripción de la documentación aportada.
+En el estudio de alternativas presentado se ha incluido la Alternativa 0 que consiste en la 
+no ejecución del proyecto, en cuyo caso significaría la ausencia de afecciones directas o indi-
+rectas sobre el medio (ocupación de suelo, eliminación de vegetación, modificación de hábi -
+tats faunísticos, etc.), si bien supondría no aprovechar el notable recurso eólico que posee la 
+zona, que podría contribuir eficazmente a la consecución de objetivos con respecto a la gene-
+ración de energías renovables fijados tanto en la Estrategia Aragonesa de Cambio Climático 
+Horizonte 2030, como en el Plan Nacional Integrado de Energía y Clima (PNIEC) 2021-2030. 
+En el caso del parque eólico “Zuera I”, con una potencia eólica instalada de 6,6 MW, se puede 
+esperar una reducción de emisiones a la atmósfera de unas 5.768 Tn anuales de CO2.
+Se plantean dos alternativas de ubicación, donde la Alternativa 1 ubicaría el aerogene -
+rador en el punto de coordenadas UTM ETRS89 30T 679.516/4.646.144, y la Alternativa 2 se 
+ubicaría en 678.367/4.646.464. Dado que la Alternativa 2 producirá mayor impacto por su 
+ubicación directa sobre Montes de Utilidad Pública y sobre zonas ZEPA, LIC e IBA, se con -
+cluye que la Alternativa 1 es la más favorable desde un punto de vista medioambiental, ya que 
+implica menores afección sobre todos los factores estudiados.
+En el documento ambiental se incluye un inventario ambiental con referencias al medio 
+físico (climatología, geología, geomorfología y pendientes, edafología, hidrología e hidrogeo-
+logía) y al medio biótico (vegetación potencial y actual, y fauna), espacios naturales y zonas 
+sensibles, paisaje, medio socioeconómico, montes de utilidad pública y vías pecuarias, y final-
+mente se incluye el análisis de vulnerabilidad del proyecto.
+Se determina que el área de estudio se caracteriza fundamentalmente una zona de poca 
+pendiente y el uso preferente del suelo son los cultivos de secano. Las zonas con menor valor 
+para la siembra, como las laderas, se tapizan con vegetación arbustiva de bajo porte de ma-
+nera generalizada, controladas por la ganadería extensiva. Así, la superficie ocupada por el 
+proyecto está mayoritariamente ocupada por superficies agrarias de cultivo de secano, ex-
+ceptuando unas pequeñas islas de vegetación con especies como tamarices, romerales, cos-
+cojares, sabinares y vegetación de menor porte como el sisallares o algún cardo. También se 
+desarrollan bosques mediterráneos de pino carrasco repoblados (Pinus halepensis) con un 
+porte variable por encima de los 5 m como norma general y en los que aparece intercalada 
+vegetación arbórea dominada por la coscoja. Conforme a la información de los Hábitats de 
+Interés Comunitario aportada por la Sección de Estudios y Cartografía de la Dirección Ge-
+neral de Medio Natural y Gestión Forestal del Gobierno de Aragón, los Hábitats de Interés 
+Comunitario (HIC) presentes en el ámbito de estudio son los siguientes: HIC 5330 “Matorrales 
+termomediterráneos y pre-estépicos”; 5210 “Matorral arborescente con Juniperus spp.”; y 
+1520 “Estepas yesosas (Gypsophiletalia)”.
+Para el estudio de la fauna, se ha llevado a cabo un estudio anual para aves y quirópteros, 
+desarrollando los trabajos de campo entre julio de 2022 y junio de 2023, y en cuanto a los 
+quirópteros, se han realizado muestreos que abarcan el período de actividad de estas espe -
+cies, que puede considerarse comprendido entre los meses de abril y octubre. La valoración 
+de afecciones concluye respecto del riesgo de colisión con los aerogeneradores para las 
+aves, que teniendo en cuenta los niveles de actividad detectados en la zona del parque eólico, 
+se espera un reducido número de incidentes por colisión al año (un total de 10), y las especies 
+con mayor riesgo serán chova piquirroja, milano real, cernícalo primilla, corneja y busardo 
+ratonero, esperándose incidentes también con otras especies. En cuanto al riesgo de colisión 
+o barotrauma con los aerogeneradores para los murciélagos, aunque son posibles inciden -
+cias con cualquiera de las especies presentes, los mayores riesgos de incidentes se pre -
+sentan en Miniopterus schreibersii y Pipistrellus kuhlii.
+El riesgo de pérdida de hábitat se considera medio para aves y quirópteros pobladoras de 
+medios agrícolas, y bajo en el caso de aves ligadas a ambientes forestales. De las posibles 
+especies afectadas, las más vulnerables a la pérdida de hábitat serán ganga ortega, agui -
+lucho pálido, el milano real, alimoche, cernícalo primilla y chova piquirroja. Teniendo en cuenta 
+los resultados de los estudios realizados, el riesgo de fragmentación del territorio y efecto 
+barrera se considera bajo para aves y quirópteros. En cuanto al efecto vacío, la zona presenta 
+una selección baja y uso del espacio bajo respecto a las especies existentes por lo que el 
+efecto vacío ocasionado se puede considerar bajo.
+Respecto de la Red Natura 2000 se determina que el proyecto se encuentra lo bastante 
+próximo para considerar una afección potencial. Así, el LIC ES2430077 “Bajo Gállego” se 
+sitúa a 3,6 km al este del aerogenerador, el LIC ES2430078 “Montes de Zuera” a 613 m al 
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+668
+oeste y la ZEPA ES0000293 “Montes de Zuera, Castejón de Valdejasa y El Castellar” a unos 
+621 m al oeste del Proyecto. Por otra parte, el área de proyecto se encuentra incluida en el 
+ámbito de aplicación del Plan de conservación del cernícalo primilla (Falco naumanni), situán-
+dose el aerogenerador a una distancia de unos 7,2 km al norte de su área crítica más cercana.
+En cuanto al paisaje, en el documento ambiental se establece que la unidad paisajística 
+son los Glacis de la margen derecha del Gállego al norte de Zaragoza, del subtipo “Llanos y 
+glacis del centro de la depresión del Ebro”, en el tipo “Llanos y glacis de la depresión del Ebro, 
+en la asociación Llanos interiores”. Desde el punto de vista paisajístico, la ubicación seleccio-
+nada para la instalación del aerogenerador se engloba dentro de un territorio ligado a cultivos 
+de secano principalmente cereal. Atendiendo a los datos de la unidad de paisaje donde se 
+ubicará el parque, la calidad paisajística es media según la valoración del Atlas de Paisaje de 
+Aragón a nivel comarcal, y la fragilidad de la totalidad del parque es media. Se estima que al 
+tratarse de un único aerogenerador el que compone el parque eólico, el impacto visual o pai-
+sajístico sea menor que el pudiera existir para parques eólicos de mayor envergadura. Tras el 
+análisis de la visibilidad del proyecto, se considera que el principal núcleo de población desde 
+el cual podría ser visible el parque eólico es Ontinar del Salz, situado a 6,5 km al este.
+Se determina finalmente que el proyecto no afectará a montes de utilidad pública o vías 
+pecuarias.
+El Análisis de la vulnerabilidad del proyecto concluye que en líneas generales se estima 
+que el riesgo de incendio en el PE “Zuera I” es de Tipo 6 (Peligro alto e Importancia de protec-
+ción Baja), con zonas puntuales de Tipo 4 (Peligro Bajo e Importancia de Protección Alta). En 
+el entorno del parque se encuentran zonas de Tipo 5 (Peligro bajo e Importancia de Protec -
+ción media). El riesgo por colapso o deslizamiento en la ubicación del proyecto es muy bajo, 
+el riesgo de inundación es moderado y entre los riesgos meteorológicos destaca el viento 
+como moderado.
+El análisis de impactos identifica un total de 59 impactos; 19 sobre el medio físico, 35 
+sobre el medio biótico y 5 sobre el medio humano. De todos los impactos significativos iden -
+tificados, 7 son positivos y 52 negativos. Un total de 7 de estos impactos se consideran indi -
+rectos y el resto de carácter directo. El principal impacto sobre la fauna se centrará sobre la 
+avifauna, al presentar mayor riesgo de mortalidad de aves por la actividad del aerogenerador. 
+Esencialmente, el efecto barrera se traduce en una disminución de la actividad aérea de las 
+aves en las inmediaciones de los aerogeneradores. Este efecto barrera es proporcional a la 
+longitud de la alineación y depende, entre otros factores, de la distancia entre las turbinas y 
+de su disposición. En este caso, al tratarse de un único aerogenerador, se prevé que el im-
+pacto se minimice en comparación con los parques de mayor envergadura. En principio, la 
+instalación del arque no supondrá un impacto significativo sobre las especies existentes en la 
+zona de estudio, considerándose en todo caso un impacto moderado centrando principal -
+mente en la avifauna.
+Por su parte, las afecciones visuales que puede producir el proyecto, se traducen en una 
+disminución del valor paisajístico, aunque dado la disposición soterrada de la línea de eva -
+cuación, y el hecho de que solo se instale un único aerogenerador, permite considerar el im-
+pacto como compatible.
+Entre las medidas preventivas y correctoras se destaca que con el objetivo de recuperar el 
+estado original de la zona de implantación del parque, se procederá a ejecutar la restauración 
+y revegetación de aquellas zonas afectadas por las obras que no vayan a ser ocupadas de 
+forma permanente, ajustándose a lo especificado en el Plan de Restauración. La restauración 
+ambiental se acometerá antes de finalizar las obras siguiendo el Plan de Restauración y se 
+realizará un seguimiento de la efectividad de las labores de restauración, incrementando la 
+intensidad del seguimiento en el caso de que se detecten dificultades para el desarrollo de la 
+vegetación. Respecto de la fauna, se determina que durante la fase de obras se realizará un 
+muestreo de la zona de actuación para comprobar la posible nidificación de las especies, y en 
+caso de confirmarse se adoptarán las medidas preventivas al respecto con la finalidad de 
+evitar el abandono de la zona de nidificación. Una vez puesto en funcionamiento el parque 
+eólico, se llevará a cabo un seguimiento de la incidencia real que las instalaciones tendrán 
+sobre las poblaciones de aves y murciélagos presentes, con la duración y condiciones que 
+determine el Órgano Ambiental.
+Se propone un Programa de Vigilancia Ambiental donde se pretende detectar posibles 
+puntos conflictivos con una incidencia significativa de colisiones o cambios de comporta -
+miento significativos, cobrando especial importancia el seguimiento de posibles impactos 
+sobre la fauna, fundamentalmente sobre la avifauna y los quirópteros y el desarrollo de las 
+medidas correctoras oportunas. Así, se elaborará un PVA con el objetivo de velar por el cum-
+plimiento de las medidas protectoras correctoras y compensatorias que se establezcan, y que 
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+669
+tendrá en cuenta las medidas propuestas en el presente Documento Ambiental y que puede 
+ser modificado atendiendo a las indicaciones formuladas por el Órgano Ambiental.
+El documento ambiental concluye respecto del paisaje que las mayores afecciones que 
+generará la instalación se producirán durante la fase de explotación y se centrarán sobre el 
+medio perceptual debido a lo visible que resultará el aerogenerador al estar situado en una 
+zona elevada y expuesta a zonas muy transitadas. Como efectos atenuantes de este impacto 
+se cita el alto grado de antropización del paisaje existiendo otros proyectos renovables en 
+zonas próximas y visibles desde puntos altamente transitados. Su contribución al efecto acu-
+mulativo en este sentido es medio-bajo.
+Se incluye un anexo de afecciones sobre la Red Natura 2000 que determina que los prin-
+cipales impactos generados por el proyecto evaluado se prevén en la fase de explotación por 
+riesgo de colisión con aerogeneradores, efecto barrera y conectividad entre espacios. Ningún 
+elemento del proyecto afecta directamente a los ámbitos de los espacios Red Natura contem-
+plados. En el planteamiento de las alternativas ha primado la ubicación en relación con los 
+Espacios protegidos de la Red Natura 2000 como criterio principal junto con la presencia del 
+recurso eólico. La Alternativa 1 se ha considerado como la más adecuada frente a la otra al -
+ternativa, al haberse configurado lo más alejada posible a los Espacios Protegidos existentes 
+en el ámbito de implantación. De los resultados de este análisis, se indica que la afección in-
+directa sobre la Red Natura 2000 se puede valorar como no sustancial de acuerdo a los prin-
+cipios de la Directiva 92/43 en el caso de los Hábitats, aunque sí que afectaría a varias espe-
+cies de avifauna objeto de conservación declarados según la definición del apartado 4 del 
+artículo 45 de la Ley 42/2007, de 13 de diciembre, tras la implantación de las medidas preven-
+tivas, correctoras propuestas.
+El Plan de restauración presentado prevé un control periódico de las superficies afectadas, 
+completándose un seguimiento y vigilancia de las revegetaciones en el cual se analizarán 
+todas las zonas dónde se hayan realizado actuaciones, indicando la situación en la que se 
+encuentran las plantaciones. Se comprobará: el estado sanitario de la plantación, porcentaje 
+de éxito según las diferentes especies utilizadas y las actuaciones. Se realizará un manteni -
+miento durante el periodo de garantía de todas las revegetaciones realizadas, de forma que 
+se produzca la perfecta integración de las zonas afectadas con el paisaje, y de manera parti-
+cular se procederá a realizar una correcta limpieza de restos de obra una vez finalizada la 
+restauración.
+5. Tramitación del expediente.
+El 20 de octubre de 2022 tiene entrada, en el Instituto Aragonés de Gestión Ambiental 
+(INAGA), el documento ambiental relativo al proyecto de parque eólico “Zuera I”, en el 
+término municipal de Zuera (Zaragoza), promovido por Tratamiento y Generación de 
+Energía, SL, junto a la solicitud del inicio del procedimiento de evaluación de impacto 
+ambiental simplificada del citado proyecto, tal y como establece el artículo 23 de la Ley 
+11/2014, de 4 de diciembre, de Prevención y Protección Ambiental de Aragón. El 7 de 
+noviembre de 2022, el Inaga notifica el inicio de expediente con tasas y el 16 de no -
+viembre se emite requerimiento de documentación solicitando el Estudio de avifauna 
+anual en la zona de implantación del proyecto. El 7 de febrero de 2023, el promotor soli -
+cita que se conceda una prórroga de 5 meses para poder dar respuesta al requerimiento 
+referenciado en el asunto.
+En mayo de 2023 se realiza el trámite de consultas para la adopción de la Resolución a las 
+siguientes administraciones, organismos e instituciones: Ayuntamiento de Zuera, Comarca 
+Central de Zaragoza, Servicio Provincial de Zaragoza del Departamento de Agricultura, Ga-
+nadería y Medio Ambiente, Dirección General de Medio Natural y Gestión Forestal, Dirección 
+General de Urbanismo, Dirección General de Ordenación del Territorio, Dirección General de 
+Energía y Minas, Dirección General de Patrimonio Cultural, Dirección General de Desarrollo 
+Rural, Dirección General de Movilidad e Infraestructuras (carreteras), Dirección General de 
+Movilidad e Infraestructuras (transportes), Confederación Hidrográfica del Ebro, Consejo de 
+Protección de la Naturaleza, Fundación Ecología y Desarrollo, Ecologistas en Acción-Ecofon-
+taneros, Asociación Naturalista de Aragón-Ansar, Asociación Española para la Conservación 
+y Estudio de Quirópteros, y Sociedad Española de Ornitología (SEO/BirdLife).
+Asimismo, se publica Anuncio en el “Boletín Oficial de Aragón”, número 89, de 12 de mayo 
+de 2023, para identificar posibles afectados.
+Finalizado el plazo máximo fijado para la contestación se reciben respuestas de las si-
+guientes administraciones y/o entidades consultadas:
+- Dirección General de Patrimonio Cultural informa que consultados los datos existentes 
+en la Carta Paleontológica de Aragón no se conocen yacimientos paleontológicos en el ám -
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+670
+bito de actuación, y consultados los datos existentes en la Dirección General de Patrimonio 
+Cultural, se constata que se realizaron prospecciones arqueológicas previas, dando como 
+resultado el certificado liberatorio en materia de arqueología de las zonas prospectadas me-
+diante Resolución de 20 de enero de 2023.
+- Dirección General de Ordenación del Territorio realiza un análisis territorial y ambiental 
+de la zona de proyecto determinando que se estima conveniente que el promotor realice un 
+estudio de sinergias e impactos acumulativos teniendo en cuenta todas las infraestructuras 
+presentes y proyectadas en un radio de 10 km respecto del proyecto objeto de estudio. Con-
+cluye que el promotor ha examinado en la documentación presentada los aspectos más rele-
+vantes desde el punto de vista territorial, una vez analizada a la luz de la normativa específica 
+en materia de ordenación del territorio constituida por el texto refundido de la Ley de Ordena-
+ción del Territorio de Aragón, aprobado por Decreto Legislativo 2/2015, de 17 de noviembre, 
+del Gobierno de Aragón, así como a la Estrategia de Ordenación Territorial de Aragón, apro-
+bada mediante Decreto 202/2014, de 2 de diciembre, del Gobierno de Aragón, e informa la 
+actuación denominada parque eólico “Zuera I”, de conformidad con las consideraciones seña-
+ladas en cada uno de sus apartados. No obstante, se considera que el documento ambiental 
+no justifica convenientemente la inclusión de esta actuación en el articulado del procedimiento 
+simplificado que, comprobada su ubicación, responde al anexo I, Grupo 3, epígrafe 3.9 de la 
+Ley 11/2014, de 4 de diciembre, de Prevención y Protección Ambiental de Aragón, por su 
+colindancia con el parque eólico autorizado denominado “Odón de Buen II” y su proximidad al 
+PE “Zuera II” y al PE “I+D Odón de Buen”.
+- Dirección General de Carreteras informa que tras analizar la documentación enviada, se 
+puede concluir que la ejecución del parque eólico afecta a las carreteras de la Red Autonó-
+mica Aragonesa A-124. Aunque en la documentación recibida no se hace alusión a ello, está 
+previsto que el acceso al parque eólico se haga a través de esta carretera (P.K. 8+380) por lo 
+que se deberá solicitar la autorización correspondiente a la Subdirección Provincial de Carre-
+teras de Zaragoza, quién establecerá las condiciones para dicho acceso.
+- Dirección General de Desarrollo Rural informa que no constan planes o actuaciones re-
+lacionadas con las actuaciones declaradas de interés por la Comunidad Autónoma de Aragón 
+en materia de Desarrollo Rural a los que pudiera afectarles el proyecto de referencia.
+- Confederación Hidrográfica del Ebro informa que la zona en la que se prevé la ubicación 
+del PE “Zuera I” corresponde a la cuenca vertiente del río Gállego desde el azud de Ardisa 
+hasta el barranco de la Violada. Concluye que los efectos previsibles del proyecto PE “Zuera 
+I”, ubicado en el término municipal de Zuera en la provincia de Zaragoza”, junto con las me-
+didas preventivas y correctoras y el Plan de Vigilancia Ambiental, se estiman compatibles en 
+cuanto al sistema hídrico se refiere, a salvo del cumplimiento de las medidas contempladas 
+en el Documento Ambiental aportado, así como se lleven a cabo todas aquellas necesarias 
+para proteger el medio hídrico de la zona de actuación, tanto de carácter superficial como 
+subterráneo, evitando su contaminación o degradación, garantizando que no se alterará sig-
+nificativamente la dinámica hidrológica de la zona y asegurando en todo momento la calidad 
+de las aguas superficiales y subterráneas. Por último, deberán extremarse las precauciones 
+durante la fase de obras para evitar la afección a los cursos de agua de la zona, teniendo 
+especial cuidado con la escorrentía y el aporte de sólidos en suspensión a la red hidrológica, 
+evitando cualquier tipo de contaminación accidental por vertido de hidrocarburos u otras sus-
+tancias contaminantes.
+- SEO-BirdLife indica los supuestos en los que los proyectos deberían someterse a una 
+evaluación de impacto ambiental, entre los que incluye si el área de estudio acoge alguna 
+especie de ave protegida dentro de las tres primeras categorías del catálogo aragonés y 
+dentro de las dos primeras categorías del catálogo nacional (es decir, especies amenazadas 
+a nivel regional o bien nacional). Considera que dada la multiplicidad de proyectos previstos 
+en la Comunidad Autónoma de Aragón, sin tener en cuenta, entre muchos otros relevantes 
+factores, el efecto de acumulación de impactos, SEO/BirdLife supedita la aprobación de cual-
+quier nuevo proyecto a la elaboración de un estudio que regule la ubicación y la reducción de 
+los impactos medioambientales de forma estratégica para todos los parques eólicos. En este 
+sentido, SEO/BirdLife ha elaborado recientemente un mapa de sensibilidad específico para 
+especies de aves esteparias disponible en la web de la organización. Realiza finalmente una 
+serie de consideraciones respecto a la minimización de impactos, y medidas preventivas, 
+correctoras y compensatorias a estudiar.
+El 27 de junio de 2023, el promotor responde al requerimiento realizado por el Instituto 
+Aragonés de Gestión Ambiental en noviembre de 2022 aportando el estudio de avifauna anual 
+requerido.
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+671
+6. Características del medio natural y calificación del espacio.
+El proyecto de parque eólico “Zuera I” se localiza en la Depresión del Ebro, en la margen 
+derecha del río Gállego y en las estribaciones orientales de los Montes de Zuera, sobre ma-
+teriales de relleno de edad paleógena y neógena de la cuenca sobre un sustrato mesozoico y 
+paleozoico de carácter autóctono. Paisajísticamente se trata de una zona dominantemente 
+llana interrumpida por cerros de escasa magnitud, constituidos por materiales del terciario. La 
+red hidrográfica está conformada por un sistema de vales de fondo plano, con orientación 
+oeste-este y que vierten al río Gállego. Los usos del suelo están dominados por los aprove -
+chamientos agrícolas y ganaderos, presentando un mosaico de cultivos herbáceos en ré -
+gimen de secano y algunos cultivos leñosos intercalados. Cabe destacar, además de los usos 
+agropecuarios tradicionales de la zona, el desarrollo en los últimos años de numerosos pro -
+yectos de aprovechamientos energéticos de energías renovables en el entorno, que han mo-
+dificado sustancialmente los usos del territorio y el desarrollo y presencia de especies de 
+fauna ligadas a los medios esteparios naturales. La vegetación natural está limitada a las la -
+deras y zonas no aptas para las labores agrícolas, en las que predominan formaciones de 
+matorral mediterráneo junto a especies herbáceas como tomillo, aliaga, ontina, gamón, lino, 
+esparto y lastón, entre otras especies. Aparecen masas de vegetación arbustiva y arbórea 
+más desarrollada, ocupando normalmente orientaciones más favorables, donde se desarro -
+llan coscojares y pinares de pino carrasco, junto con enebrales, retamares y espinares. Los 
+hábitats de interés comunitario inventariados en la zona de actuación son: 5210 “Matorrales 
+arborescentes de Juniperus spp”. Asociadas a arroyos, canales y balsas, que salpican el pai-
+saje, subsisten pequeñas formaciones de helófitos como carrizos, tipas y cañas, junto a pies 
+de tamariz y chopo.
+Respecto de la avifauna, en la zona están presentes especies propias de medios abiertos 
+como culebrera europea, águila calzada, águila real y aguilucho lagunero, así como otras de 
+carácter rupícola como alimoche común incluido en la categoría de “vulnerable” del Catálogo 
+de Especies Amenazadas de Aragón (Decreto 129/2022, de 5 de septiembre, del Gobierno de 
+Aragón, por el que se crea el Listado Aragonés de Especies Silvestres en Régimen de Protec-
+ción Especial y se regula el Catálogo de Especies Amenazadas de Aragón) o buitre leonado 
+presente en la poligonal del parque debido a la existencia frecuente de carroñas de animales 
+muertos procedentes de las explotaciones ganaderas de la zona. También están presentes 
+milano real, incluido en el citado catálogo como “en peligro de extinción” y aguilucho pálido, 
+incluido en el LAESRPE, así como cernícalo vulgar y busardo ratonero. Así mismo se han 
+registrado vuelos de chova piquirroja, especie incluida en dicho catálogo en la categoría de 
+“vulnerable”. Otras especies de aves con presencia ocasional son aguilucho cenizo y cerní -
+calo primilla, ambos incluidos en el Catálogo de Especies Amenazadas de Aragón en la cate-
+goría de “vulnerable”. Es posible la presencia esporádica de especies propias de zonas sub-
+esteparias como ganga ortega y sisón común ambas catalogadas “vulnerable”. En periodos 
+de migración es habitual el paso de grulla común, incluida en el LAESRPE, en desplaza -
+mientos por el valle del rio Gállego hacia los dormideros del embalse de La Sotonera.
+En el área donde se emplaza el parque eólico, comprende hábitats poco favorables para 
+ofrecer disponibilidad de refugios naturales para el establecimiento de colonias de quiróp -
+teros, sin embargo, se ha citado la presencia de Pipistrellus kuhlli, P. nathusii, P. pipistrellus, 
+P. pygmaeus o Miniopterus schreibersii.
+Los espacios de la Red Natura 2000 más próximos son la ZEPA ES0000293 “Montes de 
+Zuera, Castejón de Valdejasa y El Castellar” situada a unos 621 m al oeste del Proyecto, y el 
+LIC ES2430078 “Montes de Zuera” situado a 613 m al oeste. El LIC ES2430077 “Bajo Gá-
+llego” se ubica a 3,6 km al este del parque eólico. Estos espacios cuentan con Planes básicos 
+de gestión y conservación aprobados por el Decreto 13/2021, de 25 de enero, del Gobierno 
+de Aragón, por el que se declaran las Zonas de Especial Conservación en Aragón, y se 
+aprueban los planes básicos de gestión y conservación de las Zonas de Especial Conserva -
+ción y de las Zonas de Especial Protección para las Aves de la Red Natura 2000 en Aragón, 
+y que han sido publicados en el “Boletín Oficial de Aragón” por Resoluciones del Director 
+General de Medio Natural y Gestión Forestal.
+El proyecto queda ubicado en el ámbito del Plan de Conservación del cernícalo primilla 
+(Decreto 233/2010, de 14 de diciembre, del Gobierno de Aragón, por el que se establece un 
+nuevo régimen de protección para la conservación del Cernícalo Primilla (Falco Naumanni) y 
+se aprueba el plan de conservación de su hábitat), situándose el aerogenerador a una dis -
+tancia de unos 7,2 km al norte de su área crítica más próxima.
+El comedero de aves necrófagas más próximo es el de Peñaflor de Gállego, que se loca -
+liza a una distancia de unos 22 km al sureste.
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+672
+No afecta a lugares de interés geológico, a Humedales incluidos en el convenio Ramsar y 
+tampoco a árboles singulares. Tampoco se verá afectado el trazado de vías pecuarias de la 
+comunidad autónoma, ni montes de utilidad pública incluidos en el catálogo de montes de 
+Aragón.
+7. Potenciales impactos del proyecto y valoración.
+Se analizan los siguientes puntos en base al anexo III de la Ley 11/2014, de 4 de di -
+ciembre, de Prevención y Protección Ambiental de Aragón, y al anexo III, de la Ley 21/2013, 
+de 9 de diciembre, de evaluación ambiental, modificada por la Ley 9/2018, de 5 de diciembre:
+a) Afecciones sobre el suelo, relieve e hidrología. Valoración: impacto potencial medio-
+bajo. Las principales afecciones del proyecto de construcción y explotación del parque 
+eólico y su línea de evacuación, están relacionadas con la superficie total de ocupación 
+que asciende a unas 4,3 ha al proyectarse un único aerogenerador, y por la línea sub-
+terránea de evacuación, de unos 3,3 km de longitud, lo que supondrá un modificación 
+poco significativa en los usos del suelo, que pasarán de uso agrícola a industrial, y 
+además se ubican próximos a instalaciones fotovoltaicas de uso industrial. Las ac-
+ciones de mayor impacto en fase de construcción se producirán por la apertura o acon-
+dicionamiento de viales, movimientos internos y externos de maquinaria, excavaciones 
+y zanjas para el tendido de cables, y cimentación y plataformas de montaje. Con ca -
+rácter general, no se prevén movimientos de tierras significativos por explanaciones o 
+nivelaciones y tampoco se prevén grandes alteraciones sobre ribazos o taludes por la 
+topografía llana de los terrenos, siendo escasa la posibilidad de desencadenar pro-
+cesos erosivos. En lo que se refiere a la hidrología superficial, se deberá asegurar la 
+continuidad del trazado de los barrancos existentes, debiendo en todo caso, atender a 
+lo indicado por la Confederación Hidrográfica del Ebro en su informe emitido durante 
+las consultas, y a tramitar, en su caso, las futuras autorizaciones ante el Organismo de 
+Cuenca.
+b) Afecciones sobre la vegetación natural y hábitats de interés comunitario. Valoración: 
+impacto potencial medio-bajo. Los impactos sobre la vegetación en la fase de construc-
+ción se producirán fundamentalmente por la eliminación y desbroce de la cubierta ve-
+getal para la instalación de las infraestructuras proyectadas, la apertura y acondiciona-
+miento de viales, y la construcción de la línea de evacuación. El aerogenerador se 
+prevé ubicar en parcelas dedicadas al cultivo agrícola, si bien existen zonas naturales 
+que limitan con la zona de obras, y que podrían albergar comunidades naturales inven-
+tariadas como hábitat de interés comunitario 5210, por lo que se deberá minimizar la 
+afección sobre estas zonas de vegetación natural y otras formaciones maduras de pi -
+nares y carrascales adyacentes al proyecto y en su entorno, y que en su diseño final 
+deberá tratar de evitar cualquier afección sobre comunidades vegetales, aprovechando 
+campos de cultivo y caminos, y teniendo en cuenta las medidas preventivas y correc -
+toras incluidas en el documento ambiental. El Plan de restauración deberá garantizar la 
+posterior regeneración de las áreas afectadas por las obras.
+c) Afecciones sobre la fauna. Valoración: Impacto medio-alto. La construcción del parque 
+eólico, si bien consta de un solo aerogenerador, supondrá un elevado riesgo de colisión 
+de especies voladoras (avifauna y quirópteros), con identificación en la zona del parque 
+de especies especialmente sensibles a colisiones como buitre leonado, milano real, 
+alimoche, águila real, aguililla calzada, culebrera europea, chova piquirroja, cernícalo 
+primilla, aguilucho lagunero, aguilucho pálido, aguilucho cenizo, así como grulla común 
+en paso migratorio, y también con numerosos quirópteros. De todas estas especies, es 
+especialmente relevante la presencia de milano real, incluido en el Catálogo de Espe-
+cies Amenazadas como “en peligro de extinción, y otras rapaces como alimoche, 
+águilas, aguiluchos, chovas, etc, además de grulla común, también incluidas en el Ca-
+tálogo de Especies Amenazadas de Aragón. Así, se considera que la presencia del PE 
+“Zuera I” podrá suponer un riesgo de pérdida neta de individuos por colisión directa y 
+por alteración de su hábitat. Por ello, se deberá realizar un seguimiento específico e 
+intensivo de las poblaciones de estas especies, asegurando que las medidas preven -
+tivas y correctoras propuestas son suficientes como para minimizar las potenciales 
+afecciones sobre las poblaciones residentes y en paso. Previamente al inicio de la ex-
+plotación del parque, se deberá definir un plan de medidas encaminado a minimizar el 
+riesgo de colisión de aves y quirópteros con las palas del aerogenerador que incluirá 
+medidas de innovación e investigación en relación a la prevención y vigilancia de la 
+colisión de aves mediante sistemas de visión artificial y la instalación de sensores de 
+disuasión y/o parada que permitan evitar la colisión de aves en vuelo con el aerogene-
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+673
+rador y la señalización de las palas de los aerogeneradores para mejorar su visibilidad 
+para las aves. En función de los resultados y en caso de obtención de valores elevados 
+de mortalidad de aves, se adoptará un mayor número medidas encaminadas a mini-
+mizar este impacto, mediante paradas temporales o incluso la anulación o reubicación 
+de la posición proyectada. Para minimizar las afecciones en fase de construcción, las 
+obras no se iniciarán durante el periodo reproductivo de la mayor parte de las especies 
+de avifauna señalada, que tiene lugar entre marzo y julio.
+d) Afecciones sobre el paisaje. Valoración: Impacto medio. La instalación de un parque 
+eólico implica la introducción de elementos ajenos al paisaje que serán perceptibles 
+desde un entorno más o menos amplio. La incidencia de esta alteración del fenosis-
+tema es función por un lado, de la calidad paisajística con que cuenta inicialmente el 
+emplazamiento seleccionado y por otro, de la amplitud de la cuenca visual resultante. 
+En la fase de explotación los impactos derivan de la presencia de aerogeneradores y la 
+línea de evacuación. Según el EsIA, durante el desarrollo de los trabajos de construc-
+ción del parque eólico y sus infraestructuras asociadas, las zonas sobre las que se 
+estén efectuando dichos trabajos (movimientos de tierra, apertura de zanjas y desbroce 
+de la vegetación), verán alteradas su calidad paisajística. Esto se deberá a la presencia 
+de maquinaria de obra, plataformas y a las obras de desbroce y/o eliminación de la 
+vegetación para el acondicionamiento de accesos, viales e infraestructuras. Durante 
+esta fase presentarán un aspecto que a la vista de un observador externo serán perci-
+bidas de manera negativa, al igual que la zona de instalaciones auxiliares, la cual se 
+considera un intruso dentro de la armonía visual natural habitual (introducción de ele-
+mentos antrópicos). Así mismo, la instalación de los aerogeneradores, infraestructuras 
+de grandes dimensiones que poseen alturas de buje de 135 m y diámetro de rotor de 
+115,7 m, con lo cual la punta de la pala superior alcanzará 192,85 m en total, requiere 
+del empleo de grúas que superen las dimensiones de los aerogeneradores, lo que su-
+pondrá una incidencia visual de mayor magnitud. El aumento de los niveles sonoros 
+puede causar molestias sobre los ejemplares de fauna presentes en el entorno, pu -
+diendo provocar un desplazamiento temporal de los mismos, que podría afectar al éxito 
+reproductor de algunas especies que nidifiquen en el entorno.
+e) Efectos sobre la Red natura 2000 y otras catalogaciones y elementos del territorio. 
+Valoración: impacto medio/alto. El proyecto de PE “Zuera I” se ubica muy próximo a la 
+ZEPA ES0000293 “Montes de Zuera, Castejón de Valdejasa y El Castellar”, concreta-
+mente a unos 621 m al este, por lo que la incidencia sobre algunas especies de avi-
+fauna por colisión y fragmentación del hábitat podrán suponer afecciones directas 
+sobre los objetivos de conservación de este espacio, entre los que se encuentran las 
+poblaciones de alimoche, milano negro o águila real, entre otras especies. Por ello, en 
+fase de explotación se deberá realizar un seguimiento exhaustivo de las poblaciones 
+de las especies objetivo de conservación, según se determina en el Plan básico de 
+gestión y conservación de este espacio, para detectar cambios en las poblaciones exis-
+tentes, y en su caso, tomar las medidas oportunas. Por otra parte, el parque eólico se 
+prevé ubicar en el ámbito del Plan de conservación del cernícalo primilla, si bien no se 
+afecta a áreas críticas para la especie, que quedan alejadas más de 7 km.
+f) Efectos acumulativos y sinérgicos. Valoración: Impacto medio/alto. El parque eólico se 
+prevé ubicar próximo a otros parques eólicos y plantas solares fotovoltaicas construidos 
+o en tramitación, y además se prevé ubicar junto a la PFV “Zuera Solar”, del mismo 
+promotor, proyecto al que se prevé hibridar. La modificación de los hábitats disponibles 
+para las especies de avifauna se han visto muy modificados en estos últimos años por 
+el desarrollo de instalaciones de aprovechamiento de energías renovables en la zona, 
+principalmente parques eólicos, por lo que el desarrollo de otros proyectos próximos 
+supondrá un incremento sustancial en la modificación de los hábitats, y podría suponer 
+también una modificación de los espacios utilizados por estas especies provocando un 
+desplazamiento hacia los parques eólicos existentes aumentando su mortalidad por 
+colisión con las palas de los aerogeneradores instalados. El documento ambiental no 
+incluye un estudio detallado de efectos acumulativos y sinérgicos, y por ello, previa -
+mente al desarrollo del proyecto del PE “Zuera I”, y tal y como ha señalado la Dirección 
+General de Ordenación del Territorio en su respuesta a consultas, se deberá ampliar el 
+análisis de impactos acumulativos y sinérgicos incluyendo los datos de mortalidad de 
+avifauna de los parques eólicos próximos. En el citado Plan se incluirán y definirán las 
+medidas preventivas, correctoras, y en su caso, complementarias propuestas por el 
+promotor.
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+674
+g) Incremento  del consumo de recursos, generación de residuos y emisiones directas e 
+indirectas. Valoración: Impacto potencial bajo durante la construcción y positivo en fun-
+cionamiento. No se prevé un elevado consumo de recursos naturales (agua o energía), 
+si bien las propiedades edáficas se verán alteradas por el proyecto previsto ya que se 
+produce un cambio de uso de la superficie que actualmente es agrícola. La calidad del 
+aire se verá afectada por las emisiones de la maquinaria y generación de polvo durante 
+las obras, pero se considera un impacto temporal, mitigable y recuperable. La ejecu -
+ción de las obras generará residuos y cabe la posibilidad de que se produzcan vertidos 
+involuntarios que contaminen el suelo. Durante la fase de funcionamiento se producirán 
+residuos asimilables a urbanos por los trabajadores que deberán ser gestionados ade-
+cuadamente de acuerdo a su condición de residuo. La cantidad de residuos se consi -
+dera baja al igual que la cantidad de aguas residuales que se generen. El consumo de 
+agua y electricidad se estima como bajo dado el tipo de actividad e instalación prevista. 
+La generación de energía renovable se considera positiva a efectos de reducir las emi-
+siones de CO2 y prevenir el cambio climático.
+h) Afección por riesgos naturales e inducidos. Valoración: impacto potencial alto/medio/
+bajo. El Instituto Geográfico de Aragón define el área de actuación como de riesgos 
+medios y muy bajos por hundimientos y bajo a muy bajos por deslizamientos. En cuanto 
+a los riesgos meteorológicos son medios aquellos posibles derivados de rayos, y tor -
+mentas y altos por vientos. El índice de clasificación del riesgo de incendio forestal en 
+las parcelas donde se prevé la instalación de la planta y el trazado de la línea de eva -
+cuación soterrada es de Tipo 4, 5, 6 y 7 (riesgo medio - bajo), según la Orden 
+DRS/1521/2017, de 17 de julio, por la que se clasifica el territorio de la Comunidad 
+Autónoma de Aragón en función del riesgo de incendio forestal y se declaran zonas de 
+alto y de medio riesgo de incendio forestal.
+8. Vistos, el expediente administrativo incoado; la propuesta formulada por el Área Técnica 
+del Instituto Aragonés de Gestión Ambiental; los criterios establecidos en el anexo III de la Ley 
+21/2013, de 9 de diciembre, de evaluación ambiental, modificada por la Ley 9/2018, de 5 de 
+diciembre, y por el Real Decreto 445/2023, de 13 de junio, los criterios establecidos en el 
+anexo III de la Ley 11/2014, de 4 de diciembre, de Prevención y Protección Ambiental de 
+Aragón, para la valoración de la existencia de repercusiones significativas sobre el medio 
+ambiente y el resultado de las consultas recibidas, se resuelve:
+Primero.— No someter al procedimiento de evaluación de impacto ambiental ordinaria el 
+Proyecto de parque eólico “Zuera I”, en el término municipal de Zuera (Zaragoza), promovido 
+por Tratamiento y Generación de Energía, SL, por los siguientes motivos:
+- La magnitud del proyecto no es elevada al proponer un solo aerogenerador.
+- No se afecta directamente a espacios de la Red Natura 2000 o a áreas críticas estable -
+cidas en Planes de acción de especies amenazadas.
+- Las afecciones sobre especies amenazadas pueden ser minimizadas mediante la adop-
+ción de medidas preventivas y correctoras que deberán ser aportadas por el promotor previa-
+mente al inicio de la explotación del parque eólico.
+- Baja utilización de recursos naturales.
+Segundo.— Establecer las siguientes medidas preventivas, correctoras y complementa -
+rias adicionales al proyecto, que deberán incorporarse y ser tenidas en cuenta en las resolu-
+ciones administrativas que, en su caso, habiliten para su ejecución:
+1. El ámbito de aplicación de la presente declaración son las actuaciones descritas en el 
+proyecto de construcción del parque eólico “Zuera I” y sus infraestructuras de evacuación, en 
+el término municipal de Zuera (Zaragoza), en su documento ambiental y anexos. Serán de 
+aplicación todas las medidas protectoras y correctoras incluidas en la documentación presen-
+tada, siempre y cuando no sean contradictorias con las del presente condicionado. Se desa-
+rrollará el plan de vigilancia ambiental que figura en el documento ambiental, adaptándolo y 
+ampliándolo a las determinaciones del presente condicionado y cualesquiera otras que deban 
+cumplirse en las pertinentes autorizaciones administrativas.
+2. El promotor comunicará, con un plazo mínimo de un mes de antelación a los Servicios 
+Provinciales de Zaragoza del Departamento de Medio Ambiente y Turismo, y del Departa -
+mento de Economía, Empleo e Industria, la fecha de comienzo de la ejecución del proyecto. 
+Asimismo, durante la ejecución del proyecto la dirección de obra incorporará a un titulado 
+superior con formación académica en medio ambiente como responsable de medio ambiente 
+para supervisar la adecuada aplicación de las medidas preventivas, correctoras, complemen-
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+675
+tarias y de vigilancia incluidas en el documento ambiental, así como en el presente condicio -
+nado. Todas las medidas adicionales determinadas en el presente condicionado serán incor-
+poradas al proyecto definitivo, y en su caso con su correspondiente partida presupuestaria. 
+Se comunicará antes del inicio de las obras el nombramiento del técnico responsable de 
+medio ambiente al Instituto Aragonés de Gestión Ambiental y los citados Servicios Provin-
+ciales.
+3. Cualquier modificación del proyecto que pudiera alterar las afecciones ambientales eva-
+luadas en la presente declaración, se deberá presentar ante el Instituto Aragonés de Gestión 
+Ambiental para su informe y, si procede, será objeto de una nueva evaluación ambiental, bien 
+sea ordinaria o simplificada, según determina la Ley 11/2014, de 4 de diciembre, de Preven -
+ción y Protección Ambiental de Aragón.
+4. Previamente al inicio de las obras, se deberán disponer de todos los permisos, autoriza-
+ciones y licencias legalmente exigibles, así como cumplir con las correspondientes prescrip -
+ciones establecidas por los organismos consultados en el proceso de consultas. Las actua-
+ciones deberán ser compatibles con la Estrategia de Ordenación Territorial de Aragón y con 
+las normativas urbanísticas de aplicación. Se respetarán las condiciones generales de la 
+edificación, y el proyecto será conforme con la ordenación urbanística y ordenación territorial 
+vigente, cumpliendo los condicionantes respecto a obras, caminos, carreteras y otras infraes-
+tructuras, así como aquellos que en su momento pudiera determinar el Ayuntamiento de 
+Zuera. Se deberá solicitar la autorización correspondiente a la Subdirección Provincial de 
+Carreteras de Zaragoza, quién establecerá las condiciones para el acceso al parque eólico. 
+Se seguirán las determinaciones establecidas por el Organismo de cuenca en su respuesta a 
+las consultas realizadas.
+5. Si finalmente se afectara al Dominio Público Forestal, el promotor de la instalación soli-
+citará al Inaga la concesión de uso privativo para la ocupación temporal de terrenos en montes 
+de utilidad pública Decreto Legislativo 1/2017, de 20 de junio, y en caso de afectar al dominio 
+público pecuario, se deberá cumplir con lo establecido en la Ley 10/2005, de 11 de noviembre, 
+de vías pecuarias de Aragón.
+6. Durante la realización de los trabajos en las fases de construcción, funcionamiento y 
+desmantelamiento del parque eólico, y construcciones e infraestructuras anexas, se adop -
+tarán medidas oportunas para evitar la aparición y propagación de cualquier conato de in -
+cendio, debiendo cumplir en todo momento las prescripciones de la Orden anual vigente 
+sobre prevención y lucha contra los incendios forestales en la Comunidad Autónoma de 
+Aragón.
+7. Se informará a todos los trabajadores que puedan intervenir en la ejecución del proyecto 
+y previamente al inicio de las obras sobre las medidas preventivas y correctoras contenidas 
+en el estudio de impacto ambiental y anexos, y en la presente Resolución, y su responsabi -
+lidad y obligación en cuanto al cumplimiento de las mismas.
+8. Durante la realización de las obras proyectadas, se deberán evitar afecciones innecesa-
+rias y respetar al máximo las zonas de vegetación natural. Para ello, antes del inicio de las 
+obras, se realizará un jalonamiento de todas las zonas que pudieran ser directa o indirecta -
+mente afectadas quedando sus límites perfectamente definidos, y de todas las zonas con 
+vegetación natural a preservar, de forma que se eviten afecciones innecesarias sobre las 
+mismas. Las zonas de acopios de materiales y parques de maquinaria se ubicarán en zonas 
+agrícolas o en zonas desprovistas de vegetación natural, evitando el incremento de las afec-
+ciones sobre zonas naturales. Se realizará, previo al inicio de las obras, una cartografía de 
+hábitats y en base a la misma, se podrá garantizar la no afección a los hábitats de interés 
+comunitario y a la flora relevante.
+9. Para minimizara las afecciones sobre la fauna, se evitará la realización de las obras 
+durante los principales periodos de nidificación de la avifauna existente en la zona, que tiene 
+lugar entre marzo y julio. En cualquier caso, previamente al inicio de las obras, se deberá 
+prospectar por técnico especialista la zona de obras, abarcando hasta 500 m del entorno de 
+las obras y de la línea de evacuación para identificar la posible presencia de puntos de nidifi-
+cación de especies incluidas en el Decreto 129/2022, de 5 de septiembre, del Gobierno de 
+Aragón, por el que se crea el Listado Aragonés de Especies Silvestres en Régimen de Protec-
+ción Especial y se regula el Catálogo de Especies Amenazadas de Aragón u otras especies 
+de interés. En caso de hallazgos positivos, se evitará la realización de movimientos de tierras 
+o utilización de maquinaria pesada hasta que finalice el periodo de reproducción. En fase de 
+explotación e independientemente del resultado de las prospecciones, se realizará un estudio 
+del uso del espacio de avifauna durante los cinco primeros años de explotación para deter-
+minar la posible afección asociada a la explotación del parque eólico sobre la fauna de la 
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+676
+zona, y en su caso, tomar medidas preventivas para su mitigación, o correctoras o compen -
+satorias para su recuperación.
+10. Vinculado al Plan de Vigilancia Ambiental, de forma previa a la puesta en marcha del 
+parque eólico se presentará en el Instituto Aragonés de Gestión Ambiental para su aproba -
+ción, un plan de medidas encaminado a minimizar el riesgo de colisión de aves y quirópteros 
+con las palas de los aerogeneradores. En dicho plan se incluirán medidas de innovación e 
+investigación en relación a la prevención y vigilancia de la colisión de aves que incluirán el 
+seguimiento de aerogeneradores mediante sistemas de visión artificial y la instalación de 
+sensores de disuasión y/o parada en posiciones óptimas que permitan evitar la colisión de 
+aves en vuelo con los aerogeneradores y la señalización de las palas de los aerogeneradores 
+para mejorar su visibilidad para las aves (de conformidad con las directrices que pueda esta-
+blecer la Agencia Estatal de Seguridad Aérea).
+11. En caso de que en el seguimiento ambiental se identifiquen índices de mortalidad de 
+ejemplares de especies de avifauna, en especial de milano real, buitre leonado, milano negro, 
+alimoche, águila real, aguililla calzada, culebrera europea, chova piquirroja, cernícalo primilla, 
+aguilucho lagunero, aguilucho pálido, aguilucho cenizo, así como grulla común en paso mi-
+gratorio u otras especies de interés, así como de especies de quirópteros, deberán estable -
+cerse las medidas adicionales que se consideren, que deberán contrastarse con Servicio 
+Provincial del Departamento de Medio Ambiente y Turismo de Teruel para su verificación, y 
+que podrá incluir la parada temporal o permanente de los aerogeneradores en función de las 
+mortalidades detectadas o como resultado de los estudios sobre la avifauna.
+12. En función de las tasas de siniestralidad de quirópteros que se obtengan durante las 
+prospecciones sistemáticas vinculadas a la vigilancia ambiental y sin perjuicio de la adopción 
+de otras medidas que se estimen oportunas, en los casos de alta siniestralidad cuando la 
+velocidad del viento sea inferior a 6 m/s se efectuará una parada durante las primeras tres 
+horas de la noche a partir del ocaso, que es el periodo en el que mayor actividad se registra. 
+El promotor podrá proponer medidas adicionales cuya efectividad haya sido contrastada en 
+similares escenarios operacionales y se consensuará y determinará su alcance y conve -
+niencia en coordinación con la Dirección General de Medio Natural del Departamento de 
+Medio Ambiente y Turismo del Gobierno de Aragón. En función de las tasas de siniestralidad 
+que se obtengan durante las prospecciones sistemáticas durante el periodo de vigilancia am-
+biental, se corregirán los impactos empleando los métodos que determine el organismo am -
+biental competente. También se tendrán en consideración las “Directrices para la evaluación 
+y corrección de la mortalidad de quirópteros en parques eólicos” publicadas por el Ministerio 
+para la Transición Ecológica y Reto Demográfico.
+13. Deberá evitarse de forma rigurosa el abandono de cadáveres de animales o de sus 
+restos dentro o en el entorno del parque eólico, con el objeto de evitar la presencia en su zona 
+de influencia de aves necrófagas o carroñeras. Si es preciso, será el propio personal del 
+parque eólico quien deba realizar las tareas de retirada de los restos orgánicos. Respecto al 
+vertido de cadáveres en las proximidades y que puede suponer una importante fuente de 
+atracción para buitre leonado y otras rapaces, se pondrá en conocimiento de los Agentes de 
+Protección de la Naturaleza, para que actúen en el ejercicio de sus funciones, en el caso de 
+que se detecten concentraciones de rapaces necrófagas debido a vertidos de cadáveres, 
+prescindiendo de los sistemas autorizados de gestión de los mismos. A este respecto, se 
+observarán especialmente los entornos de las granjas, zanjas y balsas de agua existentes por 
+ser las zonas con mayor probabilidad de presencia de cadáveres de animales.
+14. Con objeto de minimizar la contaminación lumínica y los impactos sobre el paisaje y 
+sobre las poblaciones más próximas, así como para reducir los posibles efectos negativos 
+sobre aves y quirópteros, en los aerogeneradores que se prevea su balizamiento aeronáutico, 
+se instalará un sistema de iluminación Dual Media A/Media C. Es decir, durante el día y el 
+crepúsculo, la iluminación será de mediana intensidad tipo A (luz de color blanco, con deste-
+llos) y durante la noche, la iluminación será de mediana intensidad tipo C (luz de color rojo, 
+fija). El señalamiento de la torre de medición, en caso de que se requiera, se realizará igual -
+mente mediante un sistema de iluminación Dual Media A/Media C. En el caso de que, poste-
+riormente, las servidumbres aeronáuticas obligaran a una señalización superior a la antes 
+citada, se remitirá a este Instituto copia del documento oficial, que así lo establezca, y la 
+presente condición quedará sin efecto.
+15. Se adoptarán medidas adicionales de protección ambiental consistentes en suprimir o 
+cancelar los puntos de luz situados junto a la puerta de acceso a los aerogeneradores, así 
+como cualquier otro punto de iluminación fija exterior que no resulte imprescindible en las 
+instalaciones por motivos de seguridad, durante la fase de explotación. Se exceptúa expresa-
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+677
+mente de esta medida las luces de galibo o balizamiento establecidos en la legislación de 
+aplicación.
+16. Una vez finalizada la vida útil o el periodo de autorización del funcionamiento del 
+parque, se procederá a la completa demolición, desmantelamiento y retirada de todos los 
+componentes del proyecto que queden sin uso mediante la adecuada gestión de todos los 
+residuos generados, la restitución del relieve a la situación original y la restauración del suelo 
+y de la vegetación.
+17. Todos los residuos que se pudieran generar durante las obras, así como en fase de 
+explotación, se deberán retirar y gestionar adecuadamente según su calificación y codifica -
+ción, debiendo quedar el entorno libre de cualquier elemento artificial o residuo. Los residuos 
+generados se almacenarán de manera separada de acuerdo con su clasificación y condición. 
+Se adoptarán todas las medidas necesarias para el almacenamiento temporal de los residuos 
+peligrosos como solera impermeable, cubeto de contención, cubierta, etc. En la gestión de los 
+residuos de construcción y demolición, se deberán cumplir las obligaciones establecidas en 
+el Decreto 262/2006, de 27 de diciembre, del Gobierno de Aragón, por el que se aprueba el 
+Reglamento de la producción, posesión y gestión de los residuos de la construcción y la de-
+molición, y del régimen jurídico del servicio público de eliminación y valorización de escom -
+bros que no procedan de obras menores de construcción y reparación domiciliaria en la Co-
+munidad Autónoma de Aragón, modificado por el Decreto 117/2009, de 23 de junio.
+18. Dado que la actividad está incluida entre las potencialmente contaminantes del suelo, 
+el promotor deberá remitir a la Dirección General de Cambio Climático y Educación Ambiental 
+un informe preliminar de situación, según lo dispuesto en el Real Decreto 9/2005, de 14 de 
+enero, por el que se establece la relación de actividades potencialmente contaminantes del 
+suelo y los criterios y estándares para la declaración de suelos contaminados.
+19. En su caso, la construcción de la torre de medición anemométrica permanente se di -
+señará con sustentación autosoportada, sin vientos tensores u otros elementos que puedan 
+incrementar los riesgos de colisión de la avifauna existente en la zona. Su ubicación final se 
+planteará sobre campos de cultivo, sin incrementar las afecciones sobre vegetación natural.
+20. El PVA incluirá tanto la fase de construcción como la fase de explotación del parque 
+eólico y de desmantelamiento, debiéndose comprobar el adecuado cumplimiento de las con-
+diciones del presente informe de impacto ambiental. Para el seguimiento ambiental durante la 
+fase de explotación, pasados cinco años y en función de los resultados que se obtengan, el 
+promotor podrá solicitar una revisión de la periodicidad y alcance de sus informes o el levan-
+tamiento de la obligación de realizar el PVA durante el resto de la fase de explotación ante el 
+órgano sustantivo para que se pronuncie sobre el asunto por ser de su competencia. Deberá 
+notificarse las fechas previstas de las visitas de seguimiento con antelación suficiente al co-
+rrespondiente Coordinador del Área Medioambiental para que, si se considera oportuno, los 
+Agentes de Protección de la Naturaleza puedan estar presentes y actuar en el ejercicio de sus 
+funciones. La vigilancia hará una especial incidencia en la detección de posibles accidentes 
+de aves y quirópteros por colisión con el aerogenerador, en las medidas de protección de la 
+vegetación natural y en la correcta gestión de residuos generados durante la fase de obras, 
+realizando 1 ó 2 visitas semanales durante los movimientos de tierra en la fase de obras, y 
+visitas semanales durante el resto de las obras y la fase de explotación. Durante la fase de 
+construcción los informes del plan de vigilancia ambiental serán mensuales con un informe 
+final con conclusiones que resumirá todos los informes anteriores. Durante la fase de explo -
+tación, en sus primeros cinco años, los informes de seguimiento serán cuatrimestrales junto 
+con un informe anual con conclusiones. Pasados cinco años y durante la fase de funciona -
+miento se realizarán informes semestrales y un informe anual que agrupe los anteriores con 
+sus conclusiones. Durante la fase de desmantelamiento los informes serán mensuales du -
+rante el desarrollo de las operaciones de desmantelamiento y un informe anual con sus con-
+clusiones. Este plan de vigilancia incluirá con carácter general lo previsto en el estudio de 
+impacto ambiental y en las adendas presentadas, así como los siguientes contenidos:
+1.1. Seguimiento de la mortalidad de aves y quirópteros: para ello, se seguirá el protocolo 
+del Gobierno de Aragón, el cual será facilitado por el Inaga. Se deberá dar aviso de los ani -
+males heridos o muertos que se encuentren a los Agentes de Protección de la Naturaleza de 
+la zona, los cuales indicarán la forma de proceder. En el caso de que los Agentes no puedan 
+hacerse cargo de los animales heridos o muertos, y si así lo indican, el personal que realiza 
+la vigilancia los deberá proceder a su correcto almacenamiento en un arcón congelador con 
+el procedimiento que indiquen Agentes de Protección de la Naturaleza de la zona hasta que 
+se pueda proceder a su traslado al Centro de Recuperación de Fauna Silvestre de La Al -
+franca. Se remitirá, igualmente, comunicación mediante correo electrónico a la Dirección Ge-
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+678
+neral de Medio Natural. Las personas que realicen el seguimiento deberán contar con la au-
+torización pertinente a efectos de manejo de fauna silvestre.
+1.2. Se deberá seguir la metodología habitual en este tipo de seguimientos revisando el 
+terreno alrededor de la base de los aerogeneradores en una longitud que alcanzará la lon -
+gitud de la pala x 1,5 (en este caso 86 x 1,5, es decir 130 m). Los recorridos de búsqueda de 
+ejemplares colisionados han de realizarse a pie y la separación de los recorridos será de entre 
+6 y 12 m teniendo en cuenta la densidad de la vegetación existente. En el recorrido final, se 
+efectuará una visual hacia el exterior para detectar posibles bajas de individuos a una mayor 
+distancia. Su periodicidad deberá ser semanal durante un mínimo de seis años desde la 
+puesta en funcionamiento del parque. Se deberán incluir test de detectabilidad con señuelos 
+y permanencia de cadáveres fuera de la zona del aerogenerador, con objeto de realizar las 
+estimas de mortalidad real con la mayor precisión posible. Se deberá, asimismo, prestar es-
+pecial atención a detectar vuelos de riesgo y cambios destacables en el entorno que puedan 
+generar un incremento del riesgo de colisiones. Igualmente, se deberán realizar censos 
+anuales específicos de las especies censadas durante la realización de los trabajos del EsIA 
+y con representación en la zona como alimoche, águila real, aguililla calzada, culebrera eu -
+ropea, chova piquirroja, cernícalo primilla, aguilucho lagunero, aguilucho pálido, aguilucho 
+cenizo, así como grulla común en paso migratorio, con objeto de comparar la evolución de las 
+poblaciones antes y después de la puesta en marcha del parque eólico.
+1.3. Se realizará un seguimiento del uso del espacio en el parque eólico y sus zonas de 
+influencia de las poblaciones de quirópteros y avifauna de mayor valor de conservación de la 
+zona, prestando especial atención y seguimiento específico del comportamiento de las pobla-
+ciones de alimoche, águila real, aguililla calzada, culebrera europea, chova piquirroja, cerní -
+calo primilla, aguilucho lagunero, aguilucho pálido, aguilucho cenizo, así como grulla común 
+en paso migratorio, y otras especies detectadas en la totalidad del área de la poligonal del 
+parque eólico durante los cinco primeros años de vida útil del parque. Se aportarán las fichas 
+de campo de cada jornada de seguimiento tanto de aves como de quirópteros, que deberá ser 
+semanal durante los meses de marzo a julio, y quincenal el resto del año, y se indicará la 
+fecha, las horas de comienzo y finalización, meteorología y titulado que la realiza.
+1.4. Se realizará un seguimiento de las medidas de innovación e investigación en relación 
+con la prevención y vigilancia de la colisión de aves. Se incluirán las observaciones realizadas 
+in situ y de los accidentes con las detecciones del sistema anticolisión y funcionamiento de 
+este, así como comportamiento de la avifauna frente a los sistemas de disuasión, en su caso 
+(ubicación en coordenadas ETRS89 30T, especies y localización, día/hora, condiciones me-
+teorológicas, tipo de vuelo, trayectoria, comportamiento, etc.). Los principales resultados, los 
+datos de identificación de aves, emisión de alertas y paradas deberán ser estudiados y eva -
+luados junto con los datos de mortalidad de aves. En caso de que los datos en la fase de 
+funcionamiento arrojaran datos elevados sobre la mortalidad de aves, se podrá motivar la 
+reubicación de los aerogeneradores, o bien la implementación de otros sistemas de disua -
+sión, detección y parada que aseguren una mayor eficacia en la reducción de los siniestros 
+de avifauna, o reduzcan las molestias al resto de la fauna del entorno.
+1.5. Verificación periódica de los niveles de ruido producidos por el aerogenerador y del 
+cumplimiento de los objetivos de calidad acústica establecidos en la normativa sectorial citada 
+anteriormente; para ello, se ejecutarán las campañas de medición de ruido previstas en el 
+estudio de impacto ambiental.
+1.6. Seguimiento de los procesos erosivos y del drenaje natural del terreno.
+1.7. Seguimiento de las labores de revegetación y de la evolución de la cubierta vegetal en 
+las zonas afectadas por las obras.
+1.8. Otras incidencias o desviaciones en materia ambiental que pudieran desarrollarse.
+21. De conformidad con el artículo 33.g) de la Ley 11/2014, de 4 de diciembre, de Preven-
+ción y Protección Ambiental de Aragón, se promoverá la creación de una Comisión de Segui-
+miento para garantizar la aplicación adecuada de las medidas preventivas, correctoras, com-
+plementarias y de seguimiento ambiental recogidas en el documento ambiental y en esta 
+Resolución, así como analizar y proponer, en su caso, medidas adicionales, y para la valora-
+ción conjunta de los trabajos e informes de seguimiento ambiental de la instalación eólica. La 
+valoración de los trabajos e informes de seguimiento ambiental incluirán las instalaciones de 
+energías renovables del promotor y sus infraestructuras de evacuación. En función del aná -
+lisis y resultados obtenidos, esta Comisión podrá recomendar ante el órgano sustantivo la 
+adopción de medidas adicionales preventivas, correctoras y/o complementarias para mini-
+mizar los efectos producidos, o en su caso, la modificación, reubicación o anulación de insta-
+laciones evaluadas en función de las afecciones identificadas.
+
+csv: BOA20240109025
+09/01/2024Boletín Oficial de AragónNúm. 6
+679
+Según lo dispuesto en el artículo 4 de la Ley 40/2015, de 1 de octubre, de Régimen Jurí-
+dico del Sector Público, debe precisarse que las medidas y el condicionado ambiental que 
+incorpora el presente informe quedan justificadas y motivada su necesidad para la protección 
+del medio ambiente, ya que dicha protección constituye una razón imperiosa de interés ge-
+neral.
+De acuerdo con el artículo 37.4 de la Ley 11/2014, de 4 de diciembre, de Prevención y 
+Protección Ambiental de Aragón, la presente Resolución se publicará en el “Boletín Oficial de 
+Aragón”.
+De acuerdo con el artículo 37.6 de la mencionada Ley 11/2014, de 4 de diciembre, la pre-
+sente Resolución perderá su vigencia y cesará en la producción de los efectos que le son 
+propios si, una vez publicada en el “Boletín Oficial de Aragón”, no se hubiera procedido a la 
+autorización del proyecto en el plazo máximo de cuatro años desde su publicación. En tal 
+caso, el promotor deberá iniciar nuevamente el procedimiento de evaluación de impacto am-
+biental simplificada del proyecto.
+Zaragoza, 2 de noviembre de 2023.
+El Director del Instituto Aragonés
+de Gestión Ambiental,
+LUIS SIMAL DOMÍNGUEZ
+

@@ -1,0 +1,5 @@
+pydantic-ai
+google-genai
+python-dotenv
+litellm
+evidently

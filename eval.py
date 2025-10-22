@@ -10,22 +10,10 @@ import pandas as pd
 
 
 from parser import SimpleAgentParser, OneShotParser
-from main import DocumentModel, validate_citations
+from main import DocumentModel, validate_author, validate_passages
 
 
 load_dotenv()
-
-
-def validate_citations(document: str, data: DocumentModel) -> Tuple[bool, str]:
-    """Validate the citations in the document."""
-    clean_document = document.replace("\n", " ").replace("\r", " ").replace("\t", " ").replace("  ", " ")
-    if data.title.passage not in clean_document:
-        return False, f"`Title` passage not found in document, passage={data.title.passage}"
-    if data.author.passage not in clean_document:
-        return False, f"`Author` passage not found in document, passage={data.author.passage}"
-    if data.date.passage not in clean_document:
-        return False, f"`Date` passage not found in document, passage={data.date.passage}"
-    return True, "Citations validated successfully"
 
 
 class ParserConfig:
@@ -255,7 +243,7 @@ async def main():
             name=f"SimpleAgentParser_{model_name}",
             parser_class=SimpleAgentParser,
             model_name=model_name,
-            validation_functions=[validate_citations]
+            validation_functions=[validate_passages, validate_author]
         ),
         ParserConfig(
             name=f"OneShotParser_{model_name}",

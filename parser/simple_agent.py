@@ -1,4 +1,6 @@
-from typing import Callable, Tuple
+from typing import Callable, Tuple, Union
+import asyncio
+import inspect
 
 from litellm import acompletion
 from pydantic import ValidationError as PydanticValidationError
@@ -11,7 +13,7 @@ class SimpleAgentParser(Parser[T]):
     A simple agent parser that uses a simple reflection agentic pattern to parse a document.
 
     """
-    def __init__(self, output_type: type[T], model: str, validation_functions: list[Callable[[str, T], Tuple[bool, str]]] = [], max_attempts: int = 3):
+    def __init__(self, output_type: type[T], model: str, validation_functions: list[Callable[[str, T], Tuple[bool, str]]] = [], max_attempts: int = 5):
         """Initialize the SimpleAgentParser.
 
         Args:
@@ -55,7 +57,11 @@ Instructions:
     async def _validate_data(self, document: str, data: T) -> Tuple[bool, str]:
         """Validate the parsed data against the validation functions."""
         for validation_function in self.validation_functions:
-            success, error = validation_function(document, data)
+            # Check if the validation function is async
+            if inspect.iscoroutinefunction(validation_function):
+                success, error = await validation_function(document, data)
+            else:
+                success, error = validation_function(document, data)
             if not success:
                 return False, error
         return True, "Validation successful"
@@ -68,7 +74,8 @@ Instructions:
             "content": attempt
         })
         messages.append({
-            "role": "user",
+            "role": "tool",
+            "name": "validate_data",
             "content": feedback
         })
 
